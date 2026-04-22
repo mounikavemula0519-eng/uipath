@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Course Power Automate - Complete Guide t",
+  "Type": "Screen",
+  "Id": "3SO7zNUxOUqqnWwc5Be_Aw",
+  "Reference": "vkyzCmucAUmYRs0WwhABlg/3SO7zNUxOUqqnWwc5Be_Aw",
+  "ParentRef": "vkyzCmucAUmYRs0WwhABlg/jpa6ap6SXU-JqDcsI9zzSA",
+  "Created": "2026-04-04T15:29:05.0457894Z",
+  "Updated": "2026-04-04T15:29:05.0457894Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
